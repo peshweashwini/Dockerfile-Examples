@@ -1,0 +1,5 @@
+my-first-devops-project/
+│
+├── Dockerfile
+├── index.html
+└── README.md
